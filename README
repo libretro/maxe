@@ -1,0 +1,23 @@
+Maxe
+--------------------------------------------------------------------------------
+A small Chip8/Superchip/Chip16 simulator.
+
+About.
+---------------------------------------------------------------------------------
+This is a small C8/SCHIP/C16 simulator for the libretro platform, created by
+Themaister.
+
+It is intended to be highly modular and portable, written in C++.
+
+Todo.
+----------------------------------------------------------------------------------
+* Add Chip16.
+* Add keyboard support via proposed RetroKeyboard spec.
+
+Credits.
+----------------------------------------------------------------------------------
+code by mudlord
+reference docs by Cowgod: http://devernay.free.fr/hacks/chip8/C8TECH10.HTM
+SCHIP-48 opcode documentation by Giedrius Trainavicius
+HP48 flag info by Boris Timofeev
+font table by Giedrius Trainavicius   
